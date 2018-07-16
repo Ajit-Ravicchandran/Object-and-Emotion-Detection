@@ -1,0 +1,2 @@
+GO TO CMD AND TYPE
+python object.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel --image images/file2.jpg
